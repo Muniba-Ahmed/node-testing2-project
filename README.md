@@ -27,3 +27,4 @@ Here is a checklist of tasks to help you put your project together:
 - Create a basic express application with a few database access functions and a few endpoints.
 - Test your endpoints manually using Postman, HTTPie or similar.
 - Test your endpoints with supertest.
+  -lets go
